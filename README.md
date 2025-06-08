@@ -1,2 +1,2 @@
-# -retts-gi-gyakorl-s
+# érettségi-gyakorlás
 Az érettségi készülése közben írt programok.
